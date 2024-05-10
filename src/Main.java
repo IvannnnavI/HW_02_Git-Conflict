@@ -7,5 +7,7 @@ public class Main {
         System.out.println("4+4 = 8!");
 
 
+        System.out.println("Ура домашка!!");
+        System.out.println("Первый, и далеко не последний, коммит Мастера!");
     }
 }
